@@ -1,6 +1,7 @@
 public class BooleanInJava {
     public static void main(String [] args) {
-
+        
+        #This is the bones of the code options
         boolean passedDoor = true;
         boolean missedDoor = false;
         boolean passedAllDoors = false;
