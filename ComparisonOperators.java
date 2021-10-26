@@ -3,9 +3,13 @@ public class ComparisonOperators {
     public static void main(String[] args) {
 
         // == is equal to
+        
         // <= less than or equal to
+        
         // < less than
+        
         // > greater than
+        
         // >= greater than or equal to
 
         double a = 2.4;
